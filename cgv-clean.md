@@ -42,10 +42,9 @@ Nous livrons votre commande en France métropolitaine, principauté de Monaco et
 Les frais de port et d’emballage sont offerts pour les commandes retirées en boutique (“Offre Pick Up”).
 
 L’offre “Pick Up” est soumise aux conditions suivantes :
-* Les retraits en boutique ne peuvent être effectués qu’entre 9H et 16H du lundi au vendredi (sauf jours fériés), dès réception d’un e-mail de disponibilité de la commande.
+* Les retraits en boutique ne peuvent être effectués qu’entre <horaire boutique> du <ouverture boutique> (sauf jours fériés), dès réception d’un e-mail de disponibilité de la commande.
 * Les produits commandés resteront disponibles en boutique pour une durée de 7 jours ouvrés, après quoi, la disponibilité ne pourra être garantie et dépendra de l’état des stocks.
-
-La boutique RHUMS LES CANAILLES est située au :
+* Retrait uniquement au sein de la boutique sélectionné lors de la Commande.
 
 
 - Pays de l’Union Européenne hors France métropolitaine, Monaco et Corse:

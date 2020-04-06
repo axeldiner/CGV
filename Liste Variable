@@ -19,3 +19,15 @@
   * <Mode de Paiement 4>
   <Adresse Email>
   <Numéro de Téléphone>
+<horaire boutique>
+<ouverture boutique>
+
+
+----------------------
+
+
+
+Mode de Paiement => Liste déroulante cochée les bonnes réponses
+Mode de livraison FR ou International / UE
+  Choix de livraison 1 => Tarif fixe?
+  Choix de livraison 2 => Tarif fixe?
