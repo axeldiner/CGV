@@ -1,9 +1,9 @@
  <Adresse Web>
- <Nom Société>
- <Type de société>
- <Capital>
-  <Adresse Siège>
-  <Ville Enregistrement>
+ <Nom Société> => API
+ <Type de société> => API
+ <Capital> => API
+  <Adresse Siège> => API
+  <Ville Enregistrement> => API
   <Numéro RCS>
   <Numéro de TVA>
   <Responsable Publication>
@@ -31,3 +31,7 @@ Mode de Paiement => Liste déroulante cochée les bonnes réponses
 Mode de livraison FR ou International / UE
   Choix de livraison 1 => Tarif fixe?
   Choix de livraison 2 => Tarif fixe?
+
+
+
+  API RCNS => https://entreprise.data.gouv.fr/api_doc_rncs

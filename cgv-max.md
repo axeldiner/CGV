@@ -1,4 +1,4 @@
-Le site marchand www.rhumslescanailles.com, ci-après “le Site” est détenu et géré par la société RHUMS LES CANAILLES, SASU au capital de 30.000 euros dont le siège social est situé à 41 rue du docteur Frédéric Granier, 13007 Marseille immatriculée au registre du commerce et des sociétés de Marseille sous le numéro 827 905 522 n° TVA FR53 827 905 522 ci-après dénommée “le Vendeur”.
+Le site marchand www.rhumslescanailles.com, ci-après “le Site” est détenu et géré par la société L'ARRANGE PROVENCAL, SASU au capital de 30.000 euros dont le siège social est situé à 41 rue du docteur Frédéric Granier, 13007 Marseille immatriculée au registre du commerce et des sociétés de Marseille sous le numéro 827 905 522 n° TVA FR53 827 905 522 ci-après dénommée “le Vendeur”.
 
 Le responsable de la publication est Maxime. Le site est hébergé chez OVH - 2 rue Kellermann – 59100 Roubaix – France
 
