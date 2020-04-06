@@ -13,14 +13,16 @@
   <Mode Livraison FR 1>
   <Tarif Livraison FR 2>
   <Mode Livraison FR 2>
+  <Tarif Livraison IN 2> => Seulement si vente internationale
+    <Mode Livraison IN 2> => Seulement si vente internationale
   <Mode de Paiement 1>
   * <Mode de Paiement 2>
   * <Mode de Paiement 3>
   * <Mode de Paiement 4>
   <Adresse Email>
   <Numéro de Téléphone>
-<horaire boutique>
-<ouverture boutique>
+<horaire boutique> => Seulement si retrait possible en magasin
+<ouverture boutique> => Seulement si retrait possible en magasin
 
 
 ----------------------
@@ -35,3 +37,4 @@ Mode de livraison FR ou International / UE
 
 
   API RCNS => https://entreprise.data.gouv.fr/api_doc_rncs
+"https://entreprise.data.gouv.fr/api/rncs/v1/fiches_identite/" + code RCS
