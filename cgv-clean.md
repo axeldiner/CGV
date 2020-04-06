@@ -1,18 +1,18 @@
-Le site marchand www.rhumslescanailles.com, ci-après “le Site” est détenu et géré par la société RHUMS LES CANAILLES, SASU au capital de 5000 euros dont le siège social est situé à 41 rue du docteur Frédéric Granier, 13007 Marseille immatriculée au registre du commerce et des sociétés d'Orleans sous le numéro 841568413 n° TVA FR 18 841568413 ci-après dénommée “le Vendeur”. 
+Le site marchand <Adresse Web>, ci-après “le Site” est détenu et géré par la société <Nom Société>, <Type de société> au capital de <Capital> euros dont le siège social est situé à <Adresse Siège> immatriculée au registre du commerce et des sociétés d'<Ville Enregistrement> sous le numéro <Numéro RCS> n° TVA <Numéro de TVA> ci-après dénommée “le Vendeur”.
 
-Le responsable de la publication est Maxime. Le site est hébergé chez OVH - 2 rue Kellermann – 59100 Roubaix – France
+Le responsable de la publication est <Responsable Publication>. Le site est hébergé chez <Hébergeur> - <Adresse Hébergeur>.
 
 ## Objet du contrat
 
-Les présentes conditions générales de vente sont conclues, d'une part, par le Vendeur et, d'autre part, par toute personne physique ou morale souhaitant procéder à un achat via le site Internet www.rhumslescanailles.com, dénommée ci-après "le Client".
+Les présentes conditions générales de vente sont conclues, d'une part, par le Vendeur et, d'autre part, par toute personne physique ou morale souhaitant procéder à un achat via le site Internet <Adresse Web>, dénommée ci-après "le Client".
 
-Elles ont pour objet de fixer les dispositions contractuelles entre le Vendeur et le Client et les conditions applicables à tout achat effectué par le biais du Site, que le Client soit professionnel ou consommateur. 
+Elles ont pour objet de fixer les dispositions contractuelles entre le Vendeur et le Client et les conditions applicables à tout achat effectué par le biais du Site, que le Client soit professionnel ou consommateur.
 
 L’acquisition d'un bien ou d'un service à travers le Site implique une acceptation sans réserve par le Client des présentes conditions de vente.
 
 ## Caractéristiques des articles proposés à la vente
 
-Les articles offerts sont ceux qui figurent dans le catalogue publié sur le Site. Ces articles sont offerts dans la limite des stocks disponibles. 
+Les articles offerts sont ceux qui figurent dans le catalogue publié sur le Site. Ces articles sont offerts dans la limite des stocks disponibles.
 
 Chaque article est accompagné d'un descriptif des caractéristiques essentielles établi par le Vendeur. Les photographies du catalogue sont les plus fidèles possibles mais n'assurent aucune similitude avec l’article acheté.
 
@@ -24,9 +24,9 @@ La vente en ligne des articles présentés dans le Site est réservée aux achet
 
 ## Tarifs
 
-Les prix figurant dans le catalogue sont des prix TTC en euros tenant compte de la TVA applicable au jour de la commande; tout changement du taux pourra être répercuté sur le prix des articles. 
+Les prix figurant dans le catalogue sont des prix TTC en euros tenant compte de la TVA applicable au jour de la commande; tout changement du taux pourra être répercuté sur le prix des articles.
 
-Le Vendeur se réserve le droit de modifier ses prix à tout moment, étant entendu que le prix figurant au catalogue le jour de la commande sera le seul applicable au Client. 
+Le Vendeur se réserve le droit de modifier ses prix à tout moment, étant entendu que le prix figurant au catalogue le jour de la commande sera le seul applicable au Client.
 
 Les prix indiqués ne comprennent pas les frais de transport et d’expédition.
 
@@ -36,30 +36,30 @@ Les frais de port et d'emballage sont convenus en plus du prix et indiqués dans
 
 - France métropolitaine, Monaco et Corse:
 
-Les frais de port et d'emballage sont fixés à 9.00 € TTC en Chronopost 48h00.
+Les frais de port et d'emballage sont fixés à <Tarif Livraison FR 1> € TTC en <Mode Livraison FR 1>.
 Nous livrons votre commande en France métropolitaine, principauté de Monaco et Corse.
 
-Les frais de port et d’emballage sont offerts pour les commandes retirées en boutique (“Offre Pick Up”). 
+Les frais de port et d’emballage sont offerts pour les commandes retirées en boutique (“Offre Pick Up”).
 
 L’offre “Pick Up” est soumise aux conditions suivantes :
-* Les retraits en boutique ne peuvent être effectués qu’entre 9H et 16H du lundi au vendredi (sauf jours fériés), dès réception d’un email de disponibilité de la commande.
+* Les retraits en boutique ne peuvent être effectués qu’entre 9H et 16H du lundi au vendredi (sauf jours fériés), dès réception d’un e-mail de disponibilité de la commande.
 * Les produits commandés resteront disponibles en boutique pour une durée de 7 jours ouvrés, après quoi, la disponibilité ne pourra être garantie et dépendra de l’état des stocks.
 
-La boutique RHUMS LES CANAILLES est située au : 
+La boutique RHUMS LES CANAILLES est située au :
 
 
 - Pays de l’Union Européenne hors France métropolitaine, Monaco et Corse:
 
-Les frais de port et d'emballage sont fixés à XX.00 € TTC en chronoport.
+Les frais de port et d'emballage sont fixés à <Tarif Livraison IN 1> € TTC en <Mode Livraison IN 1>.
 
 ## Commandes
 
-Le Client passe commande sur le site Internet « www.rhumslescanailles.com ». Pour acheter un ou plusieurs articles, il doit obligatoirement suivre le processus de commande suivant :
+Le Client passe commande sur le site Internet <Adresse Web>. Pour acheter un ou plusieurs articles, il doit obligatoirement suivre le processus de commande suivant :
 * Choix des articles et ajout au panier
 
 * Validation du contenu du panier
 
-* Identification sur le Site ou inscription sur la fiche d'identification sur laquelle il indiquera toutes les coordonnées demandées (En cas données erronés parmis l’une des informations demandées, le Vendeur ne saurait être tenu responsable de l’impossibilité dans laquelle il pourrait être de livrer le produit).
+* Identification sur le Site ou inscription sur la fiche d'identification sur laquelle il indiquera toutes les coordonnées demandées (En cas de données erronés parmis l’une des informations demandées, le Vendeur ne saurait être tenu responsable de l’impossibilité dans laquelle il pourrait être de livrer le produit).
 
 * Choix du mode de livraison
 
@@ -80,8 +80,10 @@ Le Vendeur s’engage à honorer les commandes reçues sur le Site Internet seul
 ## Modalités de paiement
 
 Le règlement des achats s’effectue via l’un des moyens suivants, à la convenance du Client :
-* Par carte bancaire via la solution stripe
-* Par virement bancaire (réservé aux professionnels)
+* <Mode de Paiement 1>
+* <Mode de Paiement 2>
+* <Mode de Paiement 3>
+* <Mode de Paiement 4>
 
 Le délai de traitement dans le cas d'un virement est majoré, la commande étant préparée dans ce cas dès réception des fonds.
 
@@ -89,7 +91,7 @@ Le délai de traitement dans le cas d'un virement est majoré, la commande étan
 
 Toute commande passée sur le Site avant 14h du lundi au vendredi (hors jours fériés) sera préparée et expédiée le jour même, sous réserve de validation du paiement.
 
-Le Vendeur s’engage à livrer les commandes passées par le Client dans les délais prévus. Si lesdits articles n’ont pas été livrés dans un délai de 14 jours à compter de la date de livraison prévue lors de la commande, et si ce dépassement n’est pas lié à un cas de force majeure, le Client pourra procéder à la résolution de la vente, en envoyant un courrier recommandé avec accusé de réception à l’adresse suivante : RHUMS LES CANAILLES – SASU – 41 rue du docteur Frédéric Granier, 13007 Marseille. 
+Le Vendeur s’engage à livrer les commandes passées par le Client dans les délais prévus. Si lesdits articles n’ont pas été livrés dans un délai de 14 jours à compter de la date de livraison prévue lors de la commande, et si ce dépassement n’est pas lié à un cas de force majeure, le Client pourra procéder à la résolution de la vente, en envoyant un courrier recommandé avec accusé de réception à l’adresse suivante : <Adresse Siège>.
 
 Les sommes réglées par le Client lui seront alors intégralement remboursées.
 
@@ -103,7 +105,7 @@ Le Vendeur pourra demander au Client le règlement des frais de retours (~8€ h
 
 ## SAV
 
-Le Client peut contacter à tout moment le Vendeur par e-mail : maxime@rhumslescanailles.fr (réponse sous 48h ouvrée).
+Le Client peut contacter à tout moment le Vendeur par e-mail : <Adresse Email> (réponse sous 48h ouvrée) ou par téléphone du Lundi au Vendredi (hors jours fériés) de 9H à 16H au <Numéro de Téléphone>.
 
 ## Remboursement, Délai de Rétractation : échange ou retour
 
@@ -124,7 +126,7 @@ Tout colis non réceptionné par le Client (exemple colis non récupéré au rel
 ## Juridiction compétente
 Les présentes conditions générales de vente sont soumises à l'application du droit français. Les informations contractuelles sont présentées en langue française et les produits proposés à la vente sont conformes à la législation française.
 
-Le tribunal de Marseille est seul compétent pour tout litige provenant de l'application des présentes conditions générales de vente.
+Le tribunal de <Ville Enregistrement> est seul compétent pour tout litige provenant de l'application des présentes conditions générales de vente.
 
 ## Protection des mineurs
 

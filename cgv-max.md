@@ -63,7 +63,7 @@ Le Client passe commande sur le site Internet « www.rhumslescanailles.com ». P
 
 * Validation du contenu du panier
 
-* Identification sur le Site ou inscription sur la fiche d'identification sur laquelle il indiquera toutes les coordonnées demandées (En cas données erronés parmis l’une des informations demandées, le Vendeur ne saurait être tenu responsable de l’impossibilité dans laquelle il pourrait être de livrer le produit).
+* Identification sur le Site ou inscription sur la fiche d'identification sur laquelle il indiquera toutes les coordonnées demandées (En cas de données erronés parmis l’une des informations demandées, le Vendeur ne saurait être tenu responsable de l’impossibilité dans laquelle il pourrait être de livrer le produit).
 
 * Choix du mode de livraison
 
