@@ -122,7 +122,18 @@ __Conditions d’échange et de retour pour remboursement :__
 
 Le Client doit informer, avant tout retour, le Vendeur en retournant le formulaire ci-dessous à l'adresse suivante : maxime@rhumslescanailles.fr.
 
-
+> #### FORMULAIRE DE RÉTRACTATION
+> À l'attention de : La société L'ARRANGE PROVENCAL, SASU au capital de 30.000 euros dont le siège social est situé à 41 rue du docteur Frédéric Granier, 13007 Marseille, immatriculée au registre du commerce et des sociétés de Marseille sous le numéro 827 905 522, maxime@rhumslescanailles.fr.
+>
+> Je vous notifie par la présente ma rétractation du contrat portant sur la vente du bien ci-dessous :
+>
+> Commandé le  :
+>
+> Nom du (des) consommateur(s) :
+>
+> Adresse du (des) consommateur(s) :
+>
+> Date :
 
 Les produits retournés doivent être non ouverts, en parfait état et dans leur boite d’origine. En cas de retour, les frais de port sont à la charge du Client. <!--Article L225-1 du Code de Commerce -->
 
