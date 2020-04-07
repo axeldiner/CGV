@@ -18,7 +18,7 @@ L’acquisition d'un bien ou d'un service à travers le Site implique une accept
 
 Les articles offerts sont ceux qui figurent dans le catalogue publié sur le Site. Ces articles sont offerts dans la limite des stocks disponibles.
 
-Chaque article est accompagné d'un descriptif des caractéristiques essentielles établi par le Vendeur. Les photographies du catalogue sont les plus fidèles possibles mais n'assurent aucune similitude avec l’article acheté.
+Chaque article est accompagné d'un descriptif des caractéristiques essentielles établi par le Vendeur. Les éléments graphiques du catalogue sont les plus fidèles possibles mais n'assurent aucune similitude avec l’article acheté.
 
 ## Zone géographique
 
