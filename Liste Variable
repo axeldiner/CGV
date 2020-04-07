@@ -1,29 +1,57 @@
- <Adresse Web>
- <Nom Société> => API
- <Type de société> => API
- <Capital> => API
-  <Adresse Siège> => API
-  <Ville Enregistrement> => API
-  <Numéro RCS>
-  <Numéro de TVA>
-  <Responsable Publication>
-  <Hébergeur>
-  <Adresse Hébergeur
-  <Tarif Livraison FR 1>
-  <Mode Livraison FR 1>
-  <Tarif Livraison FR 2>
-  <Mode Livraison FR 2>
-  <Tarif Livraison IN 2> => Seulement si vente internationale
-    <Mode Livraison IN 2> => Seulement si vente internationale
-  <Mode de Paiement 1>
-  * <Mode de Paiement 2>
-  * <Mode de Paiement 3>
-  * <Mode de Paiement 4>
-  <Adresse Email>
-  <Numéro de Téléphone>
-<horaire boutique> => Seulement si retrait possible en magasin
-<ouverture boutique> => Seulement si retrait possible en magasin
+{{ nom societe }} => API
+{{ type societe }} => API
+{{ capital societe }} => API
+{{ adresse societe }} => API
+{{ ville societe }} => API
 
+Identification société
+
+{{ adresse web }}
+{{ RCS societe }}
+{{ TVA societe }}
+{{ mail societe }}
+{{ telephone societe }}
+{{ responsable publication }} => falcutatif
+{{ hebergeur }} => falcutatif
+{{ adresse hebergeur }} => falcutatif
+
+Existence boutique physique?
+{{ horaire boutique }}
+{{ jours boutique }}
+
+Options de livraison
+
+France ou France + UE ou France + UE + international
+
+FRANCE
+{{ tarif livraison FR 1 }}
+{{ mode livraison FR 1 }}
+{{ tarif livraison FR 2 }}
+{{ mode livraison FR 2 }}
+{{ tarif livraison FR 3 }}
+{{ mode livraison FR 3 }}
+
+DHL
+La Poste
+Chronopost
+Colissimo
+Porteur
+
+INTERNATIONAL
+{{ mode livraison IN }}
+
+PAIEMENT (Liste déroulante)
+{{ mode paiement 1 }}
+{{ mode paiement 2 }}
+{{ mode paiement 3 }}
+{{ mode paiement 4 }}
+
+
+Paypal
+Carte Bancaire
+Chèque
+Virement
+Bitcoin
 
 ----------------------
 
@@ -33,7 +61,6 @@ Mode de Paiement => Liste déroulante cochée les bonnes réponses
 Mode de livraison FR ou International / UE
   Choix de livraison 1 => Tarif fixe?
   Choix de livraison 2 => Tarif fixe?
-
 
 
   API RCNS => https://entreprise.data.gouv.fr/api_doc_rncs
