@@ -1,3 +1,5 @@
+<!---Article L221-5 du Code de commerce -->
+
 Le site marchand www.rhumslescanailles.com, ci-après “le Site” est détenu et géré par la société L'ARRANGE PROVENCAL, SASU au capital de 30.000 euros dont le siège social est situé à 41 rue du docteur Frédéric Granier, 13007 Marseille immatriculée au registre du commerce et des sociétés de Marseille sous le numéro 827 905 522 n° TVA FR53 827 905 522 ci-après dénommée “le Vendeur”.
 
 Le responsable de la publication est Maxime. Le site est hébergé chez OVH - 2 rue Kellermann – 59100 Roubaix – France
@@ -11,6 +13,8 @@ Elles ont pour objet de fixer les dispositions contractuelles entre le Vendeur e
 L’acquisition d'un bien ou d'un service à travers le Site implique une acceptation sans réserve par le Client des présentes conditions de vente.
 
 ## Caractéristiques des articles proposés à la vente
+
+<!---Article L111-1 et L221-5 du Code de commerce -->
 
 Les articles offerts sont ceux qui figurent dans le catalogue publié sur le Site. Ces articles sont offerts dans la limite des stocks disponibles.
 
@@ -28,22 +32,21 @@ Les prix figurant dans le catalogue sont des prix TTC en euros tenant compte de 
 
 Le Vendeur se réserve le droit de modifier ses prix à tout moment, étant entendu que le prix figurant au catalogue le jour de la commande sera le seul applicable au Client.
 
-Les prix indiqués ne comprennent pas les frais de transport et d’expédition.
+Les prix indiqués ne comprennent pas les frais de livraison.
 
-## Frais de port
+## Frais de livraison
 
-Les frais de port et d'emballage sont convenus en plus du prix et indiqués dans le bon de commande.
+Les frais de livraison sont convenus en plus du prix et indiqués dans le bon de commande.
 
-- France métropolitaine, Monaco et Corse:
+__France métropolitaine, Monaco et Corse:__
 
-Les frais de port et d'emballage sont fixés à 9.00 € TTC en Chronopost 48h00.
-Nous livrons votre commande en France métropolitaine, principauté de Monaco et Corse.
+Les frais de livraison sont fixés à 9.00 € TTC en Chronopost 48h00.
 
-Les frais de port et d’emballage sont offerts pour les commandes retirées en boutique (“Offre Pick Up”).
+Les frais de livraison sont offerts pour les commandes retirées en boutique (“Offre Pick Up”).
 
 L’offre “Pick Up” est soumise aux conditions suivantes :
 * Les retraits en boutique ne peuvent être effectués qu’entre 9H et 16H du lundi au vendredi (sauf jours fériés), dès réception d’un email de disponibilité de la commande.
-* Les produits commandés resteront disponibles en boutique pour une durée de 7 jours ouvrés, après quoi, la disponibilité ne pourra être garantie et dépendra de l’état des stocks.
+* Les produits commandés resteront disponibles en boutique pour une durée de 14 jours ouvrés, après quoi, la disponibilité ne pourra être garantie et dépendra de l’état des stocks.
 
 La boutique RHUMS LES CANAILLES est située au :
 
@@ -52,9 +55,9 @@ La boutique RHUMS LES CANAILLES est située au :
 FRANCE
 
 
-- Pays de l’Union Européenne hors France métropolitaine, Monaco et Corse:
+__Pays de l’Union Européenne hors France métropolitaine, Monaco et Corse:__
 
-Les frais de port et d'emballage sont calculés en fonction du nombre d'articles commandés et sont affichés lors du choix du mode de livraison. Les livraisons à l'international sont prises en charge par Chronopost.
+Les frais de livraison sont calculés en fonction du nombre d'articles commandés et sont affichés lors du choix du mode de livraison. Les livraisons à l'international sont prises en charge par Chronopost.
 
 ## Commandes
 
@@ -63,7 +66,7 @@ Le Client passe commande sur le site Internet « www.rhumslescanailles.com ». P
 
 * Validation du contenu du panier
 
-* Identification sur le Site ou inscription sur la fiche d'identification sur laquelle il indiquera toutes les coordonnées demandées (En cas de données erronés parmis l’une des informations demandées, le Vendeur ne saurait être tenu responsable de l’impossibilité dans laquelle il pourrait être de livrer le produit).
+* Identification sur le Site ou inscription sur la fiche d'identification sur laquelle il indiquera toutes les coordonnées demandées (en cas de données erronés parmis l’une des informations demandées, le Vendeur ne saurait être tenu responsable de l’impossibilité dans laquelle il pourrait être de livrer le produit). <!---Article 221-15 du Code de commerce -->
 
 * Choix du mode de livraison
 
@@ -73,7 +76,7 @@ Le Client passe commande sur le site Internet « www.rhumslescanailles.com ». P
 
 Le Client recevra un e-mail de confirmation de commande.
 
-Le Client pourra à tout moment visualiser lors du processus de commande le détail de sa commande ainsi que son prix total et corriger d’éventuelles erreurs, avant de la confirmer pour exprimer son acceptation.
+Le Client pourra à tout moment visualiser lors du processus de commande, le détail de sa commande ainsi que son prix total et corriger d’éventuelles erreurs, avant de la confirmer pour exprimer son acceptation.
 
 Le Vendeur se réserve la propriété des articles jusqu’au règlement complet de la commande, c'est-à-dire à l’encaissement du prix de la commande par le Vendeur.
 
@@ -85,7 +88,7 @@ Le Vendeur s’engage à honorer les commandes reçues sur le Site Internet seul
 
 Le règlement des achats s’effectue via l’un des moyens suivants, à la convenance du Client :
 * Par carte bancaire via la solution stripe
-* Par virement bancaire (réservé aux professionnels)
+* Par virement bancaire
 
 Le délai de traitement dans le cas d'un virement est majoré, la commande étant préparée dans ce cas dès réception des fonds.
 
@@ -95,7 +98,7 @@ Toute commande passée sur le Site avant 14h du lundi au vendredi (hors jours f�
 
 Le Vendeur s’engage à livrer les commandes passées par le Client dans les délais prévus. Si lesdits articles n’ont pas été livrés dans un délai de 14 jours à compter de la date de livraison prévue lors de la commande, et si ce dépassement n’est pas lié à un cas de force majeure, le Client pourra procéder à la résolution de la vente, en envoyant un courrier recommandé avec accusé de réception à l’adresse suivante : RHUMS LES CANAILLES – SASU – 41 rue du docteur Frédéric Granier, 13007 Marseille.
 
-Les sommes réglées par le Client lui seront alors intégralement remboursées.
+Les sommes réglées par le Client (frais de livraison inclus) lui seront alors intégralement remboursées, dans les meilleurs délais et au plus tard 14 jours après la date de résolution.
 
 Le Client dispose d’un délai de 30 jours ouvrés à compter de la date d’expédition de la commande pour signaler la non-réception et demander la résolution de la vente et le remboursement des articles.
 
@@ -113,11 +116,15 @@ Le Client peut contacter à tout moment le Vendeur par e-mail : maxime@rhumslesc
 
 Les Clients, personnes physiques non professionnelles, bénéficient d'un délai de rétractation de 14 jours à compter de la livraison de leur commande pour faire retour du produit au Vendeur pour échange ou remboursement sans pénalité.
 
-Le Client sera remboursé intégralement (prix de la commande et des frais de port et d’emballage) dans les meilleurs délais et au plus tard 14 jours après la date à laquelle il a exercé son droit de rétractation.
+Le Client sera remboursé intégralement (prix de la commande et des frais de livraison) dans les meilleurs délais et au plus tard 14 jours après la date à laquelle il a exercé son droit de rétractation.
 
-_Conditions d’échange et de retour pour remboursement Commande classique :_
+__Conditions d’échange et de retour pour remboursement :__
 
-Les bouteilles retournées doivent être non ouvertes, en parfait état et dans leur boite d’origine et les frais de port sont à la charge du Client.
+Le Client doit informer, avant tout retour, le Vendeur en retournant le formulaire ci-dessous à l'adresse suivante : maxime@rhumslescanailles.fr.
+
+
+
+Les produits retournés doivent être non ouverts, en parfait état et dans leur boite d’origine. En cas de retour, les frais de port sont à la charge du Client. <!--Article L225-1 du Code de Commerce -->
 
 Le Client devra conserver la preuve du dépôt du colis auprès du prestataire en charge du retour.. En l’absence de cette preuve, aucun échange ou remboursement ne pourra être effectué en cas de perte du colis.
 
@@ -133,11 +140,3 @@ Le tribunal de Marseille est seul compétent pour tout litige provenant de l'app
 ## Protection des mineurs
 
 La vente des produits spiritueux du Site est strictement réservée aux personnes désignées comme majeures par leur législation nationale (dix-huit ans pour la France).
-
-## Abus d'alcool
-
-"L'abus d'alcool est dangereux pour la santé - sachez apprécier et consommez avec modération".
-
-## Femmes enceintes
-
-"La consommation de boissons alcoolisées pendant la grossesse, même en faible quantité, peut avoir des conséquences graves sur la santé de l'enfant".
