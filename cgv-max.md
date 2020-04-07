@@ -129,9 +129,9 @@ Le Client doit informer, avant tout retour, le Vendeur en retournant le formulai
 >
 > Commandé le  :
 >
-> Nom du (des) consommateur(s) :
+> Nom et Prénom :
 >
-> Adresse du (des) consommateur(s) :
+> Adresse :
 >
 > Date :
 
