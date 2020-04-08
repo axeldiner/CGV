@@ -12,6 +12,8 @@ define("NAMESOC", $data[dossier_entreprise_greffe_principal][etablissements][1][
 efine("CAPITAL", $data[dossier_entreprise_greffe_principal][etablissement_principal[capital]);
 define("ADRESSSOC", $data[dossier_entreprise_greffe_principal][etablissements][0][adresse_ligne_1].$data[dossier_entreprise_greffe_principal][etablissements][0][adresse_code_postal].$data[dossier_entreprise_greffe_principal][etablissements][0][adresse_ville]);
 define("VILLESOC", $data[dossier_entreprise_greffe_principal][code_greffe]);
+define("VILLESOC", $data[dossier_entreprise_greffe_principal][etablissements][O][type_etablissement]);
+
 
 echo '<pre>';
 var_dump($data[dossier_entreprise_greffe_principal][code_greffe]);
