@@ -9,7 +9,7 @@ define("TYPSOC", "SASU");
 define("CAPITAL", 8073847);
 define("ADRESSSOC", "18 boulevard Pierre-Henry - BOB - 13015");
 define("VILLESOC", "MARSEILLE");
-define("RCS", 45678905678);
+define("RCS", 827905522);
 define("TVA", 567890);
 define("EMAIL", "bob.dhidsh@gmail.com");
 define("TEL", "0567896789");
