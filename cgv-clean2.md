@@ -1,158 +1,158 @@
-<!---Article L221-5 du Code de commerce -->
+  <!---Article L221-5 du Code de commerce -->
 
-Le site marchand {{ adresse web }}, ci-après “le Site” est détenu et géré par la société {{ nom societe }}, {{ type societe }} au capital de {{ capital societe }} euros dont le siège social est situé au {{ adresse societe }} immatriculée au registre du commerce et des sociétés de {{ ville societe }} sous le numéro {{ RCS societe }} n° TVA {{ TVA societe }} ci-après dénommée “le Vendeur”.
+  Le site marchand {{ adresse web }}, ci-après “le Site” est détenu et géré par la société {{ nom societe }}, {{ type societe }} au capital de {{ capital societe }} euros dont le siège social est situé au {{ adresse societe }} immatriculée au registre du commerce et des sociétés de {{ ville societe }} sous le numéro {{ RCS societe }} n° TVA {{ TVA societe }} ci-après dénommée “le Vendeur”.
 
-Le responsable de la publication est {{ responsable publication }}. Le site est hébergé chez {{ hebergeur }} - {{ adresse hebergeur }}.
+  Le responsable de la publication est {{ responsable publication }}. Le site est hébergé chez {{ hebergeur }} - {{ adresse hebergeur }}.
 
-## Objet du contrat
+  ## Objet du contrat
 
-Les présentes conditions générales de vente sont conclues, d'une part, par le Vendeur et, d'autre part, par toute personne physique ou morale souhaitant procéder à un achat via le site Internet {{ adresse web }}, dénommée ci-après "le Client".
+  Les présentes conditions générales de vente sont conclues, d'une part, par le Vendeur et, d'autre part, par toute personne physique ou morale souhaitant procéder à un achat via le site Internet {{ adresse web }}, dénommée ci-après "le Client".
 
-Elles ont pour objet de fixer les dispositions contractuelles entre le Vendeur et le Client et les conditions applicables à tout achat effectué par le biais du Site, que le Client soit professionnel ou consommateur.
+  Elles ont pour objet de fixer les dispositions contractuelles entre le Vendeur et le Client et les conditions applicables à tout achat effectué par le biais du Site, que le Client soit professionnel ou consommateur.
 
-L’acquisition d'un bien ou d'un service à travers le Site implique une acceptation sans réserve par le Client des présentes conditions de vente.
+  L’acquisition d'un bien ou d'un service à travers le Site implique une acceptation sans réserve par le Client des présentes conditions de vente.
 
-## Caractéristiques des articles proposés à la vente
+  ## Caractéristiques des articles proposés à la vente
 
-<!---Article L111-1 et L221-5 du Code de commerce -->
+  <!---Article L111-1 et L221-5 du Code de commerce -->
 
-Les articles offerts sont ceux qui figurent dans le catalogue publié sur le Site. Ces articles sont offerts dans la limite des stocks disponibles.
+  Les articles offerts sont ceux qui figurent dans le catalogue publié sur le Site. Ces articles sont offerts dans la limite des stocks disponibles.
 
-Chaque article est accompagné d'un descriptif des caractéristiques essentielles établi par le Vendeur. Les éléments graphiques du catalogue sont les plus fidèles possibles mais n'assurent aucune similitude avec l’article acheté.
+  Chaque article est accompagné d'un descriptif des caractéristiques essentielles établi par le Vendeur. Les éléments graphiques du catalogue sont les plus fidèles possibles mais n'assurent aucune similitude avec l’article acheté.
 
-## Zone géographique
+  ## Zone géographique
 
-Nos offres ne s'adressent qu'à des consommateurs et des professionnels majeurs disposant d'une adresse de livraison dans l’un des pays de l’Union Européenne.
+  Nos offres ne s'adressent qu'à des consommateurs et des professionnels majeurs disposant d'une adresse de livraison dans l’un des pays de l’Union Européenne.
 
-La vente en ligne des articles présentés dans le Site est réservée aux acheteurs majeurs disposant d'une adresse de livraison dans l’un des pays de l’Union Européenne.
+  La vente en ligne des articles présentés dans le Site est réservée aux acheteurs majeurs disposant d'une adresse de livraison dans l’un des pays de l’Union Européenne.
 
-## Tarifs
+  ## Tarifs
 
-Les prix figurant dans le catalogue sont des prix TTC en euros tenant compte de la TVA applicable au jour de la commande; tout changement du taux pourra être répercuté sur le prix des articles.
+  Les prix figurant dans le catalogue sont des prix TTC en euros tenant compte de la TVA applicable au jour de la commande; tout changement du taux pourra être répercuté sur le prix des articles.
 
-Le Vendeur se réserve le droit de modifier ses prix à tout moment, étant entendu que le prix figurant au catalogue le jour de la commande sera le seul applicable au Client.
+  Le Vendeur se réserve le droit de modifier ses prix à tout moment, étant entendu que le prix figurant au catalogue le jour de la commande sera le seul applicable au Client.
 
-Les prix indiqués ne comprennent pas les frais de livraison.
+  Les prix indiqués ne comprennent pas les frais de livraison.
 
-## Frais de livraison
+  ## Frais de livraison
 
-Les frais de livraison sont convenus en plus du prix et indiqués dans le bon de commande.
+  Les frais de livraison sont convenus en plus du prix et indiqués dans le bon de commande.
 
-__France métropolitaine, Monaco et Corse:__
+  __France métropolitaine, Monaco et Corse:__
 
-Les modes de livraison suivants sont disponibles depuis le Site :
-- {{ mode livraison FR 1 }}
-- {{ mode livraison FR 2 }}
-- {{ mode livraison FR 3 }}
-- Retrait en boutique
+  Les modes de livraison suivants sont disponibles depuis le Site :
+  - {{ mode livraison FR 1 }}
+  - {{ mode livraison FR 2 }}
+  - {{ mode livraison FR 3 }}
+  - Retrait en boutique
 
-Les frais de livraison sont fixés à {{ tarif livraison FR 1 }} € TTC via {{ mode livraison FR 1 }}.
+  Les frais de livraison sont fixés à {{ tarif livraison FR 1 }} € TTC via {{ mode livraison FR 1 }}.
 
-Les frais de livraison sont fixés à {{ tarif livraison FR 2 }} € TTC via {{ mode livraison FR 2 }}.
+  Les frais de livraison sont fixés à {{ tarif livraison FR 2 }} € TTC via {{ mode livraison FR 2 }}.
 
-Les frais de livraison sont fixés à {{ tarif livraison FR 3 }} € TTC via {{ mode livraison FR 3 }}.
+  Les frais de livraison sont fixés à {{ tarif livraison FR 3 }} € TTC via {{ mode livraison FR 3 }}.
 
-Les frais de livraison sont offerts pour les commandes retirées en boutique, dans le respect des conditions suivantes :
+  Les frais de livraison sont offerts pour les commandes retirées en boutique, dans le respect des conditions suivantes :
 
-* Les retraits en boutique ne peuvent être effectués qu’entre {{ horaire boutique }} du {{ jours boutique }}, dès réception d’un e-mail de disponibilité de la commande.
-* Les produits commandés resteront disponibles en boutique pour une durée de 14 jours ouvrés, après quoi, la disponibilité ne pourra être garantie et dépendra de l’état des stocks.
+  * Les retraits en boutique ne peuvent être effectués qu’entre {{ horaire boutique }} du {{ jours boutique }}, dès réception d’un e-mail de disponibilité de la commande.
+  * Les produits commandés resteront disponibles en boutique pour une durée de 14 jours ouvrés, après quoi, la disponibilité ne pourra être garantie et dépendra de l’état des stocks.
 
 
-__Pays de l’Union Européenne hors France métropolitaine, Monaco et Corse:__
+  __Pays de l’Union Européenne hors France métropolitaine, Monaco et Corse:__
 
-Les frais de livraison sont calculés en fonction du nombre d'articles commandés et sont affichés lors du choix du mode de livraison. Les livraisons à l'international sont prises en charge par {{ mode livraison IN }}.
+  Les frais de livraison sont calculés en fonction du nombre d'articles commandés et sont affichés lors du choix du mode de livraison. Les livraisons à l'international sont prises en charge par {{ mode livraison IN }}.
 
-## Commandes
+  ## Commandes
 
-Le Client passe commande sur le site Internet {{ adresse web }}. Pour acheter un ou plusieurs articles, il doit obligatoirement suivre le processus de commande suivant :
-* Choix des articles et ajout au panier
+  Le Client passe commande sur le site Internet {{ adresse web }}. Pour acheter un ou plusieurs articles, il doit obligatoirement suivre le processus de commande suivant :
+  * Choix des articles et ajout au panier
 
-* Validation du contenu du panier
+  * Validation du contenu du panier
 
-* Identification sur le Site ou inscription sur la fiche d'identification sur laquelle il indiquera toutes les coordonnées demandées (en cas de données erronées parmi l’une des informations demandées, le Vendeur ne saurait être tenu responsable de l’impossibilité dans laquelle il pourrait être de livrer le produit). <!---Article 221-15 du Code de commerce -->
+  * Identification sur le Site ou inscription sur la fiche d'identification sur laquelle il indiquera toutes les coordonnées demandées (en cas de données erronées parmi l’une des informations demandées, le Vendeur ne saurait être tenu responsable de l’impossibilité dans laquelle il pourrait être de livrer le produit). <!---Article 221-15 du Code de commerce -->
 
-* Choix du mode de livraison
+  * Choix du mode de livraison
 
-* Choix du mode de paiement et acceptation des CGV
+  * Choix du mode de paiement et acceptation des CGV
 
-* Validation du paiement
+  * Validation du paiement
 
-Le Client recevra un e-mail de confirmation de commande.
+  Le Client recevra un e-mail de confirmation de commande.
 
-Le Client pourra à tout moment visualiser lors du processus de commande, le détail de sa commande ainsi que son prix total et corriger d’éventuelles erreurs, avant de la confirmer pour exprimer son acceptation.
+  Le Client pourra à tout moment visualiser lors du processus de commande, le détail de sa commande ainsi que son prix total et corriger d’éventuelles erreurs, avant de la confirmer pour exprimer son acceptation.
 
-Le Vendeur se réserve la propriété des articles jusqu’au règlement complet de la commande, c'est-à-dire à l’encaissement du prix de la commande par le Vendeur.
+  Le Vendeur se réserve la propriété des articles jusqu’au règlement complet de la commande, c'est-à-dire à l’encaissement du prix de la commande par le Vendeur.
 
-Le Vendeur se réserve le droit d’annuler ou de refuser toute commande qui émanerait d’un Client avec lequel il existerait un litige relatif au paiement d’une commande précédente. Toute commande vaut acceptation des prix et descriptions des articles disponibles à la vente.
+  Le Vendeur se réserve le droit d’annuler ou de refuser toute commande qui émanerait d’un Client avec lequel il existerait un litige relatif au paiement d’une commande précédente. Toute commande vaut acceptation des prix et descriptions des articles disponibles à la vente.
 
-Le Vendeur s’engage à honorer les commandes reçues sur le Site Internet seulement dans la limite des stocks disponibles, notion indiquée sur le Site.
+  Le Vendeur s’engage à honorer les commandes reçues sur le Site Internet seulement dans la limite des stocks disponibles, notion indiquée sur le Site.
 
-## Modalités de paiement
+  ## Modalités de paiement
 
-Le règlement des achats s’effectue via l’un des moyens suivants, à la convenance du Client :
-* {{ mode paiement 1 }}
-* {{ mode paiement 2 }}
-* {{ mode paiement 3 }}
-* {{ mode paiement 4 }}
+  Le règlement des achats s’effectue via l’un des moyens suivants, à la convenance du Client :
+  * {{ mode paiement 1 }}
+  * {{ mode paiement 2 }}
+  * {{ mode paiement 3 }}
+  * {{ mode paiement 4 }}
 
-Le délai de traitement dans le cas d'un virement est majoré, la commande étant préparée dans ce cas dès réception des fonds.
+  Le délai de traitement dans le cas d'un virement est majoré, la commande étant préparée dans ce cas dès réception des fonds.
 
-## Expédition et délais de livraison
+  ## Expédition et délais de livraison
 
-Toute commande passée sur le Site avant 14h du lundi au vendredi (hors jours fériés) sera préparée et expédiée le jour même, sous réserve de validation du paiement.
+  Toute commande passée sur le Site avant 14h du lundi au vendredi (hors jours fériés) sera préparée et expédiée le jour même, sous réserve de validation du paiement.
 
-Le Vendeur s’engage à livrer les commandes passées par le Client dans les délais prévus. Si lesdits articles n’ont pas été livrés dans un délai de 14 jours à compter de la date de livraison prévue lors de la commande, et si ce dépassement n’est pas lié à un cas de force majeure, le Client pourra procéder à la résolution de la vente, en envoyant un courrier recommandé avec accusé de réception à l’adresse suivante : {{ adresse societe }}.
+  Le Vendeur s’engage à livrer les commandes passées par le Client dans les délais prévus. Si lesdits articles n’ont pas été livrés dans un délai de 14 jours à compter de la date de livraison prévue lors de la commande, et si ce dépassement n’est pas lié à un cas de force majeure, le Client pourra procéder à la résolution de la vente, en envoyant un courrier recommandé avec accusé de réception à l’adresse suivante : {{ adresse societe }}.
 
-Les sommes réglées par le Client (frais de livraison inclus) lui seront alors intégralement remboursées, dans les meilleurs délais et au plus tard 14 jours après la date de résolution.
+  Les sommes réglées par le Client (frais de livraison inclus) lui seront alors intégralement remboursées, dans les meilleurs délais et au plus tard 14 jours après la date de résolution.
 
-Le Client dispose d’un délai de 30 jours ouvrés à compter de la date d’expédition de la commande pour signaler la non-réception et demander la résolution de la vente et le remboursement des articles.
+  Le Client dispose d’un délai de 30 jours ouvrés à compter de la date d’expédition de la commande pour signaler la non-réception et demander la résolution de la vente et le remboursement des articles.
 
-Passé ce délai, aucune résolution de la vente ne sera acceptée.
+  Passé ce délai, aucune résolution de la vente ne sera acceptée.
 
-Le Client est tenu de vérifier le bon état des articles livrés. Toute anomalie constatée (article manquant, colis endommagé, article cassé…) devra obligatoirement être indiquée dans les 4 jours suivant la réception.
+  Le Client est tenu de vérifier le bon état des articles livrés. Toute anomalie constatée (article manquant, colis endommagé, article cassé…) devra obligatoirement être indiquée dans les 4 jours suivant la réception.
 
-Le Vendeur pourra demander au Client le règlement des frais de retours (~8€ ht) + frais de ré-envoi de son colis dans le cas où le Client n'aurait pas été chercher le colis mis à sa disposition par le transporteur dans les délais prévus par ce dernier (occasionnant un retour au Vendeur).
+  Le Vendeur pourra demander au Client le règlement des frais de retours (~8€ ht) + frais de ré-envoi de son colis dans le cas où le Client n'aurait pas été chercher le colis mis à sa disposition par le transporteur dans les délais prévus par ce dernier (occasionnant un retour au Vendeur).
 
-## SAV
+  ## SAV
 
-Le Client peut contacter à tout moment le Vendeur par e-mail : {{ mail societe }} (réponse sous 48h ouvrée) ou par téléphone du {{ jours boutique }} de {{ horaire boutique }} au {{ telephone societe }}.
+  Le Client peut contacter à tout moment le Vendeur par e-mail : {{ mail societe }} (réponse sous 48h ouvrée) ou par téléphone du {{ jours boutique }} de {{ horaire boutique }} au {{ telephone societe }}.
 
-## Remboursement, Délai de Rétractation : échange ou retour
+  ## Remboursement, Délai de Rétractation : échange ou retour
 
-Les Clients, personnes physiques non professionnelles, bénéficient d'un délai de rétractation de 14 jours à compter de la livraison de leur commande pour faire retour du produit au Vendeur pour échange ou remboursement sans pénalité.
+  Les Clients, personnes physiques non professionnelles, bénéficient d'un délai de rétractation de 14 jours à compter de la livraison de leur commande pour faire retour du produit au Vendeur pour échange ou remboursement sans pénalité.
 
-Le Client sera remboursé intégralement (prix de la commande et des frais de livraison) dans les meilleurs délais et au plus tard 14 jours après la date à laquelle il a exercé son droit de rétractation.
+  Le Client sera remboursé intégralement (prix de la commande et des frais de livraison) dans les meilleurs délais et au plus tard 14 jours après la date à laquelle il a exercé son droit de rétractation.
 
-__Conditions d’échange et de retour pour remboursement :__
+  __Conditions d’échange et de retour pour remboursement :__
 
-Le Client doit informer, avant tout retour, le Vendeur en retournant le formulaire ci-dessous à l'adresse suivante : {{ mail societe }}.
+  Le Client doit informer, avant tout retour, le Vendeur en retournant le formulaire ci-dessous à l'adresse suivante : {{ mail societe }}.
 
-> #### FORMULAIRE DE RÉTRACTATION
-> À l'attention de : La société {{ nom societe }}, {{ type societe }} au capital de {{ capital societe }} euros dont le siège social est situé au {{ adresse societe }} immatriculée au registre du commerce et des sociétés de {{ ville societe }} sous le numéro {{ RCS societe }}, {{ mail societe }}.
->
-> Je vous notifie par la présente ma rétractation du contrat portant sur la vente du bien ci-dessous :
->
-> Commandé le  :
->
-> Nom et Prénom :
->
-> Adresse :
->
-> Date :
+  > #### FORMULAIRE DE RÉTRACTATION
+  > À l'attention de : La société {{ nom societe }}, {{ type societe }} au capital de {{ capital societe }} euros dont le siège social est situé au {{ adresse societe }} immatriculée au registre du commerce et des sociétés de {{ ville societe }} sous le numéro {{ RCS societe }}, {{ mail societe }}.
+  >
+  > Je vous notifie par la présente ma rétractation du contrat portant sur la vente du bien ci-dessous :
+  >
+  > Commandé le  :
+  >
+  > Nom et Prénom :
+  >
+  > Adresse :
+  >
+  > Date :
 
-Les produits retournés doivent être non ouverts, en parfait état et dans leur boite d’origine. En cas de retour, les frais de port sont à la charge du Client. <!--Article L225-1 du Code de Commerce -->
+  Les produits retournés doivent être non ouverts, en parfait état et dans leur boite d’origine. En cas de retour, les frais de port sont à la charge du Client. <!--Article L225-1 du Code de Commerce -->
 
-Le Client devra conserver la preuve du dépôt du colis auprès du prestataire en charge du retour. En l’absence de cette preuve, aucun échange ou remboursement ne pourra être effectué en cas de perte du colis.
+  Le Client devra conserver la preuve du dépôt du colis auprès du prestataire en charge du retour. En l’absence de cette preuve, aucun échange ou remboursement ne pourra être effectué en cas de perte du colis.
 
-## Renvoi suite colis non récuperé
+  ## Renvoi suite colis non récuperé
 
-Tout colis non réceptionné par le Client (exemple colis non récupéré au relais, changement d'adresse non mentionné au Vendeur) pourra entraîner la demande de paiement au Client des frais de renvoi afin que le Vendeur puisse renvoyer le colis.
+  Tout colis non réceptionné par le Client (exemple colis non récupéré au relais, changement d'adresse non mentionné au Vendeur) pourra entraîner la demande de paiement au Client des frais de renvoi afin que le Vendeur puisse renvoyer le colis.
 
-## Juridiction compétente
-Les présentes conditions générales de vente sont soumises à l'application du droit français. Les informations contractuelles sont présentées en langue française et les produits proposés à la vente sont conformes à la législation française.
+  ## Juridiction compétente
+  Les présentes conditions générales de vente sont soumises à l'application du droit français. Les informations contractuelles sont présentées en langue française et les produits proposés à la vente sont conformes à la législation française.
 
-Le tribunal de {{ ville societe }} est seul compétent pour tout litige provenant de l'application des présentes conditions générales de vente.
+  Le tribunal de {{ ville societe }} est seul compétent pour tout litige provenant de l'application des présentes conditions générales de vente.
 
-## Protection des mineurs
+  ## Protection des mineurs
 
-La vente des produits spiritueux du Site est strictement réservée aux personnes désignées comme majeures par leur législation nationale (dix-huit ans pour la France).
+  La vente des produits spiritueux du Site est strictement réservée aux personnes désignées comme majeures par leur législation nationale (dix-huit ans pour la France).
