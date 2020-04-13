@@ -1,21 +1,32 @@
 <!DOCTYPE html>
+<title>Vos CGV</title>
+
 <html>
 <body>
 
 <?php
-define("WEBADRESS", "www.google.com");
+define("WEBADRESS", $_POST["WEBADRESS"]);
 define("NAMESOC", "Les Canailles");
+define("RCS", $_POST["RCS"]);
 define("TYPSOC", "SASU");
 define("CAPITAL", 8073847);
 define("ADRESSSOC", "18 boulevard Pierre-Henry - BOB - 13015");
 define("VILLESOC", "MARSEILLE");
-define("RCS", 827905522);
-define("TVA", 567890);
-define("EMAIL", "bob.dhidsh@gmail.com");
-define("TEL", "0567896789");
-define("RESPPUBLI", "Leo");
-define("HEBERGEUR", "Françis");
-define("ADRESSHEB", "144 boulevard Pierre-Louis - BOB - 13015");
+define("TVA", $_POST["TVA"]);
+define("EMAIL", $_POST["EMAIL"]);
+define("TEL", $_POST["TEL"]);
+define("RESPPUBLI", $_POST["RESPPUBLI"]);
+define("HEBERGEUR", $_POST["HEBERGEUR"]);
+define("ADRESSHEB", $_POST["ADRESSHEB"]);
+define("Livraison_1", $_POST["Livraison_1"]);
+define("Livraison_2", $_POST["Livraison_2"]);
+define("Livraison_3", $_POST["Livraison_3"]);
+define("Livraison_4", $_POST["Livraison_4"]);
+define("Livraison_1_Prix", $_POST["Livraison_1_Prix"]);
+define("Livraison_2_Prix", $_POST["Livraison_2_Prix"]);
+define("Livraison_3_Prix", $_POST["Livraison_3_Prix"]);
+define("Livraison_4_Prix", $_POST["Livraison_4_Prix"]);
+
 
 echo "<p>","Le site marchand ", WEBADRESS,", ci-après \"le Site\" est détenu et géré par la société ",NAMESOC,", ",TYPSOC," au capital de ",CAPITAL," euros dont le siège social est situé au ",ADRESSSOC,", immatriculée au registre du commerce et des sociétés de ",VILLESOC," sous le numéro ",RCS," n° TVA ",TVA,"  ci-après dénommée \"le Vendeur\".","</p>";
 echo "<p>","Le responsable de la publication est ",RESPPUBLI,". Le site est hébergé chez ",HEBERGEUR," - ",ADRESSHEB,".","</p>";
@@ -35,61 +46,103 @@ echo"Le Vendeur se réserve le droit de modifier ses prix à tout moment, étant
 echo"Les prix indiqués ne comprennent pas les frais de livraison.";
 echo"<h2>","Frais de livraison","</h2>";
 echo"Les frais de livraison sont convenus en plus du prix et indiqués dans le bon de commande.";
-echo"<b>","France métropolitaine, Monaco et Corse:";"</b>";
-?>
+echo"<b>","France métropolitaine, Monaco et Corse:","</b>";
 
-<p>  Les modes de livraison suivants sont disponibles depuis le Site :</p>
-<ul>
-<li>{{ mode livraison FR 1 }}</li>
-<li>{{ mode livraison FR 2 }}</li>
-<li>{{ mode livraison FR 3 }}</li>
-<li><p>Retrait en boutique</p>
-<p>Les frais de livraison sont fixés à {{ tarif livraison FR 1 }} € TTC via {{ mode livraison FR 1 }}.</p>
-<p>Les frais de livraison sont fixés à {{ tarif livraison FR 2 }} € TTC via {{ mode livraison FR 2 }}.</p>
-<p>Les frais de livraison sont fixés à {{ tarif livraison FR 3 }} € TTC via {{ mode livraison FR 3 }}.</p>
-<p>Les frais de livraison sont offerts pour les commandes retirées en boutique, dans le respect des conditions suivantes :</p>
-</li>
-<li><p>Les retraits en boutique ne peuvent être effectués qu’entre {{ horaire boutique }} du {{ jours boutique }}, dès réception d’un e-mail de disponibilité de la commande.</p>
-</li>
-<li>Les produits commandés resteront disponibles en boutique pour une durée de 14 jours ouvrés, après quoi, la disponibilité ne pourra être garantie et dépendra de l’état des stocks.</li>
-</ul>
-<p>  <strong>Pays de l’Union Européenne hors France métropolitaine, Monaco et Corse:</strong></p>
-<p>  Les frais de livraison sont calculés en fonction du nombre d'articles commandés et sont affichés lors du choix du mode de livraison. Les livraisons à l'international sont prises en charge par {{ mode livraison IN }}.</p>
-<h2 id="commandes">Commandes</h2>
-<p>  Le Client passe commande sur le site Internet {{ adresse web }}. Pour acheter un ou plusieurs articles, il doit obligatoirement suivre le processus de commande suivant :</p>
-<ul>
-<li><p>Choix des articles et ajout au panier</p>
-</li>
-<li><p>Validation du contenu du panier</p>
-</li>
-<li><p>Identification sur le Site ou inscription sur la fiche d'identification sur laquelle il indiquera toutes les coordonnées demandées (en cas de données erronées parmi l’une des informations demandées, le Vendeur ne saurait être tenu responsable de l’impossibilité dans laquelle il pourrait être de livrer le produit). </p>
-</li>
-<li><p>Choix du mode de livraison</p>
-</li>
-<li><p>Choix du mode de paiement et acceptation des CGV</p>
-</li>
-<li><p>Validation du paiement</p>
-<p>Le Client recevra un e-mail de confirmation de commande.</p>
-<p>Le Client pourra à tout moment visualiser lors du processus de commande, le détail de sa commande ainsi que son prix total et corriger d’éventuelles erreurs, avant de la confirmer pour exprimer son acceptation.</p>
-<p>Le Vendeur se réserve la propriété des articles jusqu’au règlement complet de la commande, c'est-à-dire à l’encaissement du prix de la commande par le Vendeur.</p>
-<p>Le Vendeur se réserve le droit d’annuler ou de refuser toute commande qui émanerait d’un Client avec lequel il existerait un litige relatif au paiement d’une commande précédente. Toute commande vaut acceptation des prix et descriptions des articles disponibles à la vente.</p>
-<p>Le Vendeur s’engage à honorer les commandes reçues sur le Site Internet seulement dans la limite des stocks disponibles, notion indiquée sur le Site.</p>
-<h2 id="modalit-s-de-paiement">Modalités de paiement</h2>
-<p>Le règlement des achats s’effectue via l’un des moyens suivants, à la convenance du Client :</p>
-</li>
-<li>{{ mode paiement 1 }}</li>
-<li>{{ mode paiement 2 }}</li>
-<li>{{ mode paiement 3 }}</li>
-<li><p>{{ mode paiement 4 }}</p>
-<p>Le délai de traitement dans le cas d'un virement est majoré, la commande étant préparée dans ce cas dès réception des fonds.</p>
-<h2 id="exp-dition-et-d-lais-de-livraison">Expédition et délais de livraison</h2>
-<p>Toute commande passée sur le Site avant 14h du lundi au vendredi (hors jours fériés) sera préparée et expédiée le jour même, sous réserve de validation du paiement.</p>
+if (Livraison_2==="") {
+  echo "<p>","Les commandes passées sur le site sont livrées via ",Livraison_1,".","</p>";
+   if (Livraison_1_Prix!="Tarif (si applicable)") {
+        echo "<p>","Les frais de livraison sont fixés à ",Livraison_1_Prix," euros.","</p>";
+    }
+    else {
+      echo "<p>","Les frais de livraison sont calculés pendant la commande en fonction du nombre des articles séléctionnés.","</p>";
+    }
+}
+else {
+  echo "<p>","Les modes de livraison suivants sont disponibles depuis le Site :","</p>";
+  echo "<ul>";
+
+    if (Livraison_1_Prix!="Tarif (si applicable)") {
+      echo "<li>",Livraison_1," (",Livraison_1_Prix," € par commande)","</li>";
+    }
+    else {
+     echo "<li>",Livraison_1," (Frais calculés lors de la commande)","</li>";
+    }
+
+   if (Livraison_2_Prix!="Tarif (si applicable)") {
+    echo "<li>",Livraison_2," (",Livraison_2_Prix," € par commande)","</li>";
+  }
+  else {
+    echo "<li>",Livraison_2," (Frais calculés lors de la commande)","</li>";
+  }
+
+if (Livraison_3!="") {
+if (Livraison_3_Prix!="Tarif (si applicable)") {
+    echo "<li>",Livraison_3," (",Livraison_3_Prix," € par commande)","</li>";
+  }
+  else {
+    echo "<li>",Livraison_3," (Frais calculés lors de la commande)","</li>";
+  }
+}
+if (Livraison_4!="") {
+if (Livraison_4_Prix!="Tarif (si applicable)") {
+    echo "<li>",Livraison_4," (",Livraison_4_Prix," € par commande)","</li>";
+  }
+  else {
+    echo "<li>",Livraison_4," (Frais calculés lors de la commande)","</li>";
+  }
+}
+ echo "</ul>";
+}
+
+
+#<li><p>Les retraits en boutique ne peuvent être effectués qu’entre {{ horaire boutique }} du {{ jours boutique }}, dès réception d’un e-mail de disponibilité de la commande.</p>
+#</li>
+#<li>Les produits commandés resteront disponibles en boutique pour une durée de 14 jours ouvrés, après quoi, la disponibilité ne pourra être garantie et dépendra de l’état des stocks.</li>
+#</ul>
+#<p>  <strong>Pays de l’Union Européenne hors France métropolitaine, Monaco et Corse:</strong></p>
+#<p>  Les frais de livraison sont calculés en fonction du nombre d'articles commandés et sont affichés lors du choix du mode de livraison. Les livraisons à l'international sont prises en charge par {{ mode livraison IN }}.</p>
+
+
+
+echo "<h2>","Commandes","</h2>";
+echo "<p>","Le Client passe commande sur le site Internet ",WEBADRESS,". Pour acheter un ou plusieurs articles, il doit obligatoirement suivre le processus de commande suivant :","</p>";
+
+echo "<ul>";
+echo"<li>","<p>","Choix des articles et ajout au panier","</p>","</li>";
+echo"<li>","<p>","Validation du contenu du panier","</p>","</li>";
+echo"<li>","<p>","Identification sur le Site ou inscription sur la fiche d'identification sur laquelle il indiquera toutes les coordonnées demandées (en cas de données erronées parmi l’une des informations demandées, le Vendeur ne saurait être tenu responsable de l’impossibilité dans laquelle il pourrait être de livrer le produit).","</p>","</li>";
+echo"<li>","<p>","Choix du mode de livraison","</p>","</li>";
+echo"<li>","<p>","Choix du mode de paiement et acceptation des CGV","</p>","</li>";
+echo"<li>","<p>","Validation du paiement","</p>","</li>";
+echo "</ul>";
+echo"<p>","Le Client recevra un e-mail de confirmation de commande.","</p>";
+echo "<p>","Le Vendeur se réserve la propriété des articles jusqu’au règlement complet de la commande, c'est-à-dire à l’encaissement du prix de la commande par le Vendeur.","</p>";
+echo "<p>","Le Vendeur se réserve le droit d’annuler ou de refuser toute commande qui émanerait d’un Client avec lequel il existerait un litige relatif au paiement d’une commande précédente. Toute commande vaut acceptation des prix et descriptions des articles disponibles à la vente.","</p>";
+echo"<p>","Le Vendeur s’engage à honorer les commandes reçues sur le Site Internet seulement dans la limite des stocks disponibles, notion indiquée sur le Site.","</p>";
+echo "<h2>","Modalités de paiement","</h2>";
+echo"<p>","Le règlement des achats s’effectue via l’un des moyens suivants, à la convenance du Client :","</p>";
+
+#<li>{{ mode paiement 1 }}</li>
+#<li>{{ mode paiement 2 }}</li>
+#<li>{{ mode paiement 3 }}</li>
+#<li><p>{{ mode paiement 4 }}</p>
+#<p>Le délai de traitement dans le cas d'un virement est majoré, la commande étant préparée dans ce cas dès réception des fonds.</p>
+
+
+
+echo"<h2>","Expédition et délais de livraison","</h2>";
+echo "<p>","Toute commande passée sur le Site avant 14h du lundi au vendredi (hors jours fériés) sera préparée et expédiée le jour même, sous réserve de validation du paiement.","</p>";
 <p>Le Vendeur s’engage à livrer les commandes passées par le Client dans les délais prévus. Si lesdits articles n’ont pas été livrés dans un délai de 14 jours à compter de la date de livraison prévue lors de la commande, et si ce dépassement n’est pas lié à un cas de force majeure, le Client pourra procéder à la résolution de la vente, en envoyant un courrier recommandé avec accusé de réception à l’adresse suivante : {{ adresse societe }}.</p>
 <p>Les sommes réglées par le Client (frais de livraison inclus) lui seront alors intégralement remboursées, dans les meilleurs délais et au plus tard 14 jours après la date de résolution.</p>
 <p>Le Client dispose d’un délai de 30 jours ouvrés à compter de la date d’expédition de la commande pour signaler la non-réception et demander la résolution de la vente et le remboursement des articles.</p>
 <p>Passé ce délai, aucune résolution de la vente ne sera acceptée.</p>
 <p>Le Client est tenu de vérifier le bon état des articles livrés. Toute anomalie constatée (article manquant, colis endommagé, article cassé…) devra obligatoirement être indiquée dans les 4 jours suivant la réception.</p>
 <p>Le Vendeur pourra demander au Client le règlement des frais de retours (~8€ ht) + frais de ré-envoi de son colis dans le cas où le Client n'aurait pas été chercher le colis mis à sa disposition par le transporteur dans les délais prévus par ce dernier (occasionnant un retour au Vendeur).</p>
+
+
+?>
+
+
 <h2 id="sav">SAV</h2>
 <p>Le Client peut contacter à tout moment le Vendeur par e-mail : {{ mail societe }} (réponse sous 48h ouvrée) ou par téléphone du {{ jours boutique }} de {{ horaire boutique }} au {{ telephone societe }}.</p>
 <h2 id="remboursement-d-lai-de-r-tractation-change-ou-retour">Remboursement, Délai de Rétractation : échange ou retour</h2>

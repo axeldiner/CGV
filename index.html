@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie-edge">
 
+  <link rel = "stylesheet"  type = "text/css"  href = "style.css" />
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
   <title>CGV Generator</title>
@@ -16,12 +18,140 @@
 
 <body>
 
-  <form action="/action_page.php" target="_blank" method="get">
-   <label for="fname">Code RCS :</label><br>
-   <input type="text" id="fname" name="fname"><br>
+<!--
+<a href="#Informations">Info</a><br>
+<button href="#Livraison">Livraison</button>
+<form action="#Livraison" value="obuh">
+    <input type="submit"/>
+</form>
+-->
+
+  <form action="cgv-clean.php" target="_blank" method="post">
+
+    <div id="Informations">
+
+<H2>Informations Personnelles :</H2>
+
+    <label for="RCS">Code RCS :</label>
+    <input type="text" id="RCS" name="RCS"><br>
+    <label for="TVA">Code TVA :</label>
+    <input type="text" id="TVA" name="TVA"><br>
+   <label for="RESPPUBLI">Responsable de Publication :</label>
+   <input type="text" id="RESPPUBLI" name="RESPPUBLI"><br>
+   <label for="HEBERGEUR">Identité de l'Hébergeur :</label>
+   <input type="text" id="HEBERGEUR" name="HEBERGEUR"><br>
+   <label for="ADRESSHEB">Adresse de l'Hébergeur :</label>
+   <input type="text" id="ADRESSHEB" name="ADRESSHEB"><br>
+   <label for="EMAIL">Adresse Email:</label>
+   <input type="email" id="EMAIL" name="EMAIL"><br>
+   <label for="WEBADRESS">Adresse Web :</label>
+   <input type="url" id="WEBADRESS" name="WEBADRESS"><br>
+   <label for="TEL">Numéro de téléphone :</label>
+   <input type="tel" id="TEL" name="TEL"><br>
+
+</div>
+<br>
+
+<div id="Paiement">
+
+<H2>Modes de Paiement :</H2>
+
+  <input type="checkbox" id="Paypal" name="Paypal">
+  <label for="Paypal"> Paypal</label><br>
+  <input type="checkbox" id="CB" name="CB">
+  <label for="CB"> Carte Bancaire</label><br>
+  <input type="checkbox" id="Chèque" name="Chèque">
+  <label for="Chèque"> Chèque</label><br>
+  <input type="checkbox" id="Virement" name="Virement">
+  <label for="Virement"> Virement</label><br>
+
+</div>
+<br>
+
+<div id="Produits">
+
+<H2>Types de produits vendus :</H2>
+
+  <input type="checkbox" id="Materiel" name="Materiel">
+  <label for="Paypal"> Biens Matériels</label><br>
+  <input type="checkbox" id="Immateriel" name="Immateriel">
+  <label for="CB"> Biens Immatériels</label><br>
+
+</div>
+<br>
+
+<div id="Geographie">
+
+<H2>Zone de Livraison :</H2>
+
+  <input type="checkbox" id="France" name="France">
+  <label for="France"> France Métropolitaine</label><br>
+  <input type="checkbox" id="DomTom" name="DomTom">
+  <label for="DomTom"> Dom & Tom</label><br>
+  <input type="checkbox" id="UE" name="UE">
+  <label for="UE"> Pays de l'Union Européenne</label><br>
+
+</div>
+<br>
+
+<div id="Livraison">
+
+<H2>Modes de Livraison :</H2>
+
+<select name="Livraison_1" id="Livraison_1">
+    <option value="">--Choix de Livraison 1--</option>
+    <option value="Chronopost">Chronopost</option>
+    <option value="DHL">DHL</option>
+    <option value="Colissimo">Colissimo</option>
+    <option value="Courrier Simple">Courrier Simple</option>
+    <option value="Courrier Suivi">Courrier Suivi</option>
+    <option value="Courrier Recommande">Courrier Recommandé</option>
+<!--    <option value="Retrait en Boutique">Retrait en boutique</option> -->
+</select>
+
+  <input type="text" id="Livraison_1_Prix" name="Livraison_1_Prix" value="Tarif (si applicable)"><br><br>
+
+<select name="Livraison_2" id="Livraison_2">
+    <option value="">--Choix de Livraison 2--</option>
+    <option value="Chronopost">Chronopost</option>
+    <option value="DHL">DHL</option>
+    <option value="Colissimo">Colissimo</option>
+    <option value="Simple">Courrier Simple</option>
+    <option value="Suivi">Courrier Suivi</option>
+    <option value="Recommande">Courrier Recommandé</option>
+    <option value="Boutique">Retrait en boutique</option>
+</select>  <input type="text" id="Livraison_2_Prix" name="Livraison_2_Prix" value="Tarif (si applicable)"><br><br>
+
+<select name="Livraison_3" id="Livraison_3">
+    <option value="">--Choix de Livraison 3--</option>
+    <option value="Chronopost">Chronopost</option>
+    <option value="DHL">DHL</option>
+    <option value="Colissimo">Colissimo</option>
+    <option value="Simple">Courrier Simple</option>
+    <option value="Suivi">Courrier Suivi</option>
+    <option value="Recommande">Courrier Recommandé</option>
+    <option value="Boutique">Retrait en boutique</option> <input type="text" id="Livraison_3_Prix" name="Livraison_3_Prix" value="Tarif (si applicable)"><br><br>
+
+    <select name="Livraison_4" id="Livraison_4">
+        <option value="">--Choix de Livraison 4--</option>
+        <option value="Chronopost">Chronopost</option>
+        <option value="DHL">DHL</option>
+        <option value="Colissimo">Colissimo</option>
+        <option value="Simple">Courrier Simple</option>
+        <option value="Suivi">Courrier Suivi</option>
+        <option value="Recommande">Courrier Recommandé</option>
+        <option value="Boutique">Retrait en boutique</option>   <input type="text" id="Livraison_4_Prix" name="Livraison_4_Prix" value="Tarif (si applicable)">
+
+
+
+</div>
+<br>
+
+<div style="text-align:center;">
+
      <input type="submit" value="Submit">
  </form>
-
+</div>
 </div>
 </body>
 </html>
