@@ -160,3 +160,8 @@ a:visited{
 list-style-type: '# ';
 padding-bottom:5px;
 }
+
+#intro a, a:hover a:visited{
+color: black;
+text-decoration: underline;
+}
