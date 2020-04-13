@@ -1,5 +1,10 @@
 body, html {
   height: 100%;
+  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+}
+
+body{
+  overflow-x: hidden;
 }
 
 input[type=text],input[type=email], input[type=url],input[type=tel] {
@@ -12,8 +17,19 @@ input[type=text],input[type=email], input[type=url],input[type=tel] {
   box-sizing: border-box;
 }
 
+input[type=number]{
+  width: 5%;
+  padding: 12px 0;
+  padding-left: 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
 label {
-  width: 20%;
+  width: 40%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
@@ -31,21 +47,116 @@ select {
 
 input[type=submit] {
   width: 33%;
-  background-color: #4CAF50;
+  background-color: black;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
   border-radius: 4px;
+  font-weight: bold;
 }
 
-div {
-  height: 90%;
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
+
+#bouti select{
+  width: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
 }
 
-#Livraison.input{
-  width: 45%;
+#Livraison,#livraison_inter {
+  display: none;
+}
+
+.section1 {
+  background-color: #00cecb;
+  margin: -15px;
+  padding: 20px 15px 0px 15px;
+  height: 90vh;
+}
+
+.section2 {
+  background-color: #ff5e5b;
+  margin: -15px;
+  padding: 20px 15px 0px 15px;
+  height: 90vh;
+}
+
+.section3 {
+  background-color: #d8d8d8;
+  margin: -15px;
+  padding: 20px 15px 0px 15px;
+  height: 90vh;
+}
+
+.section4 {
+  background-color: #ffffea;
+  margin: -15px;
+  padding: 15px 15px 30px 15px;
+}
+
+.section5 {
+  background-color: #ffed66;
+  margin: -15px;
+  padding: 20px 15px 30px 15px;
+}
+
+.bottom_submit {
+  background-color: #d8d8d8;
+  margin: -15px;
+  padding: 15px 15px 30px 15px;
+}
+
+hr {
+  border: none;
+  border-top:5px dashed black;
+}
+
+input[type=submit].bouton_parti {
+margin-bottom: 10px;
+}
+
+#bouton_to_sec2{
+  background-color: #00cecb;
+  margin: -15px;
+  padding: 15px 15px 0px 15px;
+  height: 10vh;
+}
+
+#bouton_to_sec3{
+  background-color: #ff5e5b;
+  margin: -15px;
+  padding: 15px 15px 0px 15px;
+  height: 10vh;
+}
+
+#bouton_to_sec5{
+  background-color: #d8d8d8;
+  margin: -15px;
+  padding: 15px 15px 0px 15px;
+  height: 10vh;
+}
+
+a{
+  color: black;
+}
+
+a:hover{
+  color: white;
+}
+
+a:visited{
+  color: white;
+}
+
+#intro p{
+  padding-left: 15px;
+}
+
+#intro li{
+list-style-type: '# ';
+padding-bottom:5px;
 }
