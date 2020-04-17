@@ -72,40 +72,40 @@ input[type=submit] {
 }
 
 .section1 {
-  background-color: #00cecb;
+  background-color: #f4abaa;
   margin: -15px;
   padding: 20px 15px 0px 15px;
   height: 90vh;
 }
 
 .section2 {
-  background-color: #ff5e5b;
+  background-color: #2a3166;
   margin: -15px;
   padding: 20px 15px 0px 15px;
   height: 90vh;
 }
 
 .section3 {
-  background-color: #d8d8d8;
+  background-color: #ee7879;
   margin: -15px;
   padding: 20px 15px 0px 15px;
   height: 90vh;
 }
 
 .section4 {
-  background-color: #ffffea;
+  background-color: #ddd1c7;
   margin: -15px;
   padding: 15px 15px 30px 15px;
 }
 
 .section5 {
-  background-color: #ffed66;
+  background-color: #cae7df;
   margin: -15px;
   padding: 20px 15px 30px 15px;
 }
 
 .bottom_submit {
-  background-color: #d8d8d8;
+  background-color: #ee7879;
   margin: -15px;
   padding: 15px 15px 30px 15px;
 }
