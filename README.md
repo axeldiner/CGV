@@ -1,4 +1,4 @@
-# La Fabrique
+# 👷📃 La Fabrique
 ## Le Générateur de Conditions Générales de Vente personnalisées
 
 Création d'un générateur de Conditions Générales de Vente personnalisées en fonction d'input de l'user disponible à l'adresse suivante : https://axeldiner.github.io/CGV/
