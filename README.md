@@ -1,4 +1,4 @@
-# La Fabrique
+# La Fabric
 ## Le Générateur de Conditions Générales de Vente personnalisées
 
 Création d'un générateur de Conditions Générales de Vente personnalisées en fonction d'input de l'user disponible à l'adresse suivante : https://axeldiner.github.io/CGV/
@@ -30,6 +30,6 @@ __Quid des données saisies, une fois les CGVs générées ?__
 
 Aucune donnée saisie par le professionnel n'est conservée sur le serveur. Les données sont directement incluses dans le texte généré et effacées du serveur.
 
-__Comment soutenir l'intiative de La Fabrique ?__
+__Comment soutenir l'intiative de La Fabric ?__
 
 Si vous appréciez le travail effectué et souhaitez encourager/soutenir cette initiative, vous pouvez effectuer un don via le lien suivant : xxxxx ou nous écrire pour nous faire part de vos commentaires et idées d'amélioration.
