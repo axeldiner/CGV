@@ -1,0 +1,156 @@
+
+body, html {
+  height: 100%;
+  font-family: 'Lato', sans-serif;
+  color : #181818;
+  margin: 0px;
+  background-color: #ffffff;
+}
+
+.topnav {
+  overflow: hidden;
+  position: fixed;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  height: 20%;
+  background-color: #ffffff;
+  margin-right: 5%;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  display: block;
+  text-align: center;
+  padding: 35px 16px;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a:visited {
+  color: #181818;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+
+#contenu {
+ margin-top: 10%; /* Add a top margin to avoid content overlay */
+}
+
+#Accueil{
+  position:fixed;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  background-color: red;
+}
+
+#Bio{
+margin: auto;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: #ffffff;
+}
+
+#conteneur_bio{
+margin: auto;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+width: 960px;
+height: 560px;
+}
+
+#Texte{
+float: left;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+width: 50%;
+height: 100%;
+background-color: #ededed;
+text-align: center;
+}
+
+#Texte p{
+padding: 0 60px;
+}
+
+#Texte h2{
+padding-top: 20%;
+}
+
+.button {
+  margin-top: 20px;
+  background-color: black;
+  border: none;
+  color: #ffffff;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#photo{
+float: left;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+width: 50%;
+height: 100%;
+background-color: black;
+}
+
+#Prestations {
+  margin: 0px;
+  background-color: #ededed;
+  height: 50%;
+}
+
+.flotte {
+float:left;
+}
+
+#Traduction, #TRANSCRÉATION{
+  height: 33%;
+  color: red;
+}
+
+#Traduction p, #Revision p, #TRANSCRÉATION p{
+width:45%;
+padding: 2em 2em 2em 2em;
+float: right;
+}
+
+#Traduction h3, #Revision h3, #TRANSCRÉATION h3{
+width:45%;
+float: right;
+}
+
+@media screen and (max-width:970px;) {
+  #conteneur_bio{
+    width: 100%;
+  }
+  #Texte {
+    width: 100%;
+  }
+  #photo {
+    width: 100%;
+  }
+}
